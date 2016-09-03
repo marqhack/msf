@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(to right, blue, lightblue, blue);
+  background-image: linear-gradient(to right, #00334d, #00aaff, #00334d);
 }
 @media screen and (min-width: 64em) {
   .page-header {
